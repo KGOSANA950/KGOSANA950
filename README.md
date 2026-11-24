@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://github.com/KGOSANA950/KGOSANA950/assets/YOUR_BANNER_IMAGE_LINK_HERE" alt="Ronney Motšhina Banner" width="100%" />
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Ronney Motšhina Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Ronney Motšhina! 👋</h1>
@@ -30,6 +30,7 @@
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     </td>
@@ -38,18 +39,35 @@
     <td align="center"><b>Embedded & IoT</b></td>
     <td>
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32_MK2-E7352C?style=flat-square&logo=espressif&logoColor=white" />
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/Siemens_PLC-008080?style=flat-square&logo=siemens&logoColor=white" />
       <img src="https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assembly&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Tools & OS</b></td>
+    <td align="center"><b>Engineering Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Proteus_8-2C2255?style=flat-square&logo=proteus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Quartus_II-0071C5?style=flat-square&logo=intel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keil_uVision5-002B49?style=flat-square&logo=arm&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>IDEs & Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Embarcadero-E62431?style=flat-square&logo=delphi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>OS & DevOps Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle_VM_VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
     </td>
