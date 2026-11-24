@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Ronney Motšhina Banner" width="100%" />
+ <img width="2048" height="768" alt="Neon Tech Engineering Careers Banner" src="https://github.com/user-attachments/assets/b810d417-5802-4c93-893a-f0e3a209c08d" />
 </p>
 
 <h1 align="center">Hi there, I'm Ronney Motšhina! 👋</h1>
